@@ -1,3 +1,4 @@
+![Workshop Image](https://github.com/UVA-Google-Developer-Student-Club/Oct25GoogleEngineersWorkshop/blob/main/workshop.JPG?raw=true)
 # Notes from the Technical Interview Workshop led by Google Engineers @ UVA
 
 ## Communities at Google
