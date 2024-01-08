@@ -1,4 +1,4 @@
-# Google Workshop Notes
+# Notes from the Technical Interview Workshop led by Google Engineers @ UVA
 
 ## Communities at Google
 
